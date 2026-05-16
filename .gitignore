@@ -30,5 +30,4 @@ Thumbs.db
 
 # Runtime ledger and generated data snapshots
 quota_ledger.json
-shorts_*.json
 new_shorts_*.json
